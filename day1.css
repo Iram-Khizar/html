@@ -1,0 +1,28 @@
+#box {
+  background-color: blue;
+  color: white; /* Optional: Makes the text inside the div readable */
+  padding: 10px; /* Optional: Adds some padding inside the div */
+}
+.heading {
+  color: red;
+}
+.button-style {
+  background-color: green; /* CSS stylesheet */
+}
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  text-transform: uppercase;
+  text-align: center; /* Optional: Ensures the text is centered inside the div */
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+#outer {
+  font-size: 25px;
+}
+#inner {
+  font-size: 10px;
+}
